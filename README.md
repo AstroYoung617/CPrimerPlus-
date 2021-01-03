@@ -16,13 +16,13 @@
 &emsp; 2.[练习题代码](/chapter2)  
    **Chapter3**  
 &emsp; 1.[总结](/chapter3/sum3.md)  
-&emsp; 2.[练习题代码](/chapter2)  
+&emsp; 2.[练习题代码](/chapter3)  
    **Chapter4**  
 &emsp; 1.[总结](/chapter4/sum4.md)  
-&emsp; 2.[练习题代码](/chapter2)  
+&emsp; 2.[练习题代码](/chapter4)  
    **Chapter5**  
 &emsp; 1.[总结](/chapter5/sum5.md)  
-&emsp; 2.[练习题代码](/chapter2)  
+&emsp; 2.[练习题代码](/chapter5)  
 ## 目录
 
 ### &emsp;第一章 初识C语言
