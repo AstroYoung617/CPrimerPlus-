@@ -1,4 +1,4 @@
-#第一章
+# 第一章 #
 ***
 ### 一、起源 ###
 &emsp; *Dennis Ritch* 和 *Ken Thompson* 在开发UNIX时设计了C语言，B语言是由后者 *Ken Thompson* 发明的。其中前者 *Dennis Ritch* 和 *Brian Kernighan0* 合著了著名的 *K&R C* 即 *《The C Programing Language》* 
