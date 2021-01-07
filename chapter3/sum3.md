@@ -24,9 +24,9 @@
 ### 二、变量与常量数据 ###
 
 
-> &emsp; 数据：即承载信息的数字和字符  。
-&emsp; 常量：在程序使用之前已经 **预先设定** 好了，在整个程序的运行过程中没有变化。
-&emsp; 变量：在程序运行期间可能会 **改变或被赋值** 。
+> &emsp; 数据：即承载信息的数字和字符  。  
+&emsp; 常量：在程序使用之前已经 **预先设定** 好了，在整个程序的运行过程中没有变化。  
+&emsp; 变量：在程序运行期间可能会 **改变或被赋值** 。  
 
 
 ### 三、数据：数据类型关键字 ###
@@ -51,16 +51,16 @@
 > 
 - short int 类型
 - long int 或 long
-- long long int 或 long long**（C99标准引入）**
+- long long int 或 long long **（C99标准引入）**
 - unsigned int 或 unsigned（只用于非负值的场合）
 - C90标准中添加了 unsigned long int 或 unsigned long 和 unsigned short int 或 unsigned short类型。在C99标准中又添加了unsigned long long int 或 unsigned long long。
 - 在任何有符号的类型前面加上 signed 关键字，强调使用有符号类型的意图。例如：short、short int、signed short、signed short int都表示同一种类型。
 
 #### &emsp; 3.使用字符：char类型 ####
 
-&emsp;&emsp; 从技术层面上来看，char类型实际上存储的是整数而不是字符，计算机使用数字编码来处理字符，即用特定的整数来表示特定的字符。
-&emsp;&emsp; 值得注意的是**C语言中把一字节定义为char类型所占用的位数**。
-&emsp;&emsp; 计算机中通常使用特殊的符号序列表示一些特殊的字符。如通常使用的换行符“\n”等，下表便是C语言中定义的转义序列。  
+&emsp;&emsp; 从技术层面上来看，char类型实际上存储的是整数而不是字符，计算机使用数字编码来处理字符，即用特定的整数来表示特定的字符。  
+&emsp;&emsp; 值得注意的是**C语言中把一字节定义为char类型所占用的位数**。  
+&emsp;&emsp; 计算机中通常使用特殊的符号序列表示一些特殊的字符。如通常使用的换行符“\n”等，下表便是C语言中定义的转义序列。    
 
 |转义序列|含义|
 |:----|:-----|
@@ -86,7 +86,7 @@
 #### &emsp; 6.float、double 和 long double ####
 
 计数法：
-> 科学计数法：如（1.23X10<sup>9</sup>)
+> 科学计数法：如（1.23X10<sup>9</sup>)   
 > 指数计数法：如（1.23e5）
 
 &emsp;&emsp; C标准规定float至少能表示**6位**有效数字，而double至少能表示**13位**有效数字。
